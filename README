@@ -1,0 +1,7 @@
+pg-to-json-serializer
+=====================
+
+Set of functions for serializing PostgreSQL variable values into JSON presentation
+
+PKGBUILD for building pg-to-json-serializer as package for Arch Linux
+
